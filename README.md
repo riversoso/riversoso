@@ -1,7 +1,3 @@
-# 👍 Welcome Soso's Repository 👍
-
-## Hi there 👋
-
 <p align='center'>
   <a href="https://github.com/riversoso">
     <img src="https://capsule-render.vercel.app/api?type=venom&height=270&color=gradient&text=Soso's%20Repository&section=header&reversal=false&textBg=false&fontColor=005174&fontSize=40&animation=blinking&fontAlign=50"/>
