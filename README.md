@@ -6,8 +6,8 @@
 
 ## Profile
 - 이름 : 강소이
-- 활동 : 빅데이터를 활용한 JAVA 개발자 스터디(24.01~),  
-　　 프로젝트 / ShelterPuppy (24.05~)  
+- 교육활동 : 부경대학교 빅데이터를 활용한 JAVA 개발자(24.01~24.07),  
+- 프로젝트 : GCV 용당극장 영화예매사이트 (24.07~)  
 - Email : soe0309@naver.com
 
 ## GitHub Stat and Languages
